@@ -1,3 +1,8 @@
+
+<img width="1384" height="785" alt="output4" src="https://github.com/user-attachments/assets/74126189-b7de-40fa-9677-096863226d7d" />
+
+
+
 # Downtime Data Dashboard (Mock Project)
 
 A downtime analytics project to showcase **data analysis and visualization** skills using **Python, pandas, numpy seaborn, matplotlib, SQL, and dashboard-style visuals**.
@@ -10,8 +15,5 @@ A downtime analytics project to showcase **data analysis and visualization** ski
 
 ### Files
 
-- `data/downtime_data.csv` (raw)
-- `data/downtime_data_weekly.csv` (with `week_number` column)
 - `screenshots/` (charts and dashboard mockups)
 - `sql/` (schema + sample queries)
-- `requirements.txt` (dependencies)
